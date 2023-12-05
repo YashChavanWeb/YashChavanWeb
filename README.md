@@ -8,6 +8,8 @@ I'm Yash Chavan from India, and I am currently a student of Second Year Computer
 - ☕️ Java Programming
 - 🗜️ Data Structures in C
 
+  
+## Social Media 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YashChavanWeb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yash-chavan-5b91a426b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yashchavan4628/)  
 
 
