@@ -1,18 +1,96 @@
 ![Web Development](https://github.com/YashChavanWeb/React_Complete_Course_Notes/assets/112185595/040080d0-5c51-4746-adaa-03f2e6adfae5)
 
 # Yash Chavan
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN+Stack+Developer)
+
 I'm Yash Chavan from India, and I am currently a student of Second Year Computer Engineering at VCET College in Vasai. I enjoy Coding and solving real-life problems using my Programming Logic. I am currently also learning new technologies like React and Android Studio. I have some projects in Web Development and I like designing websites. 
 
-## Skills and Experience
-- 🖥️ Web Development (HTML, CSS, JS)
-- ☕️ Java Programming
-- 🗜️ Data Structures in C
 
-  
-## Social Media 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YashChavanWeb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yash-chavan-5b91a426b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yashchavan4628/)  
+💡  Enthusiastic about Full-Stack Web Development with a focus on cutting-edge technologies.\
+🧠  Exploring the realms of Cloud Architecture and Automation to enhance software delivery.\
+✍️  Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - YASH CHAVAN.\
+✉️  Committed to contributing to the community through Open Source Initiatives and educational content.\
+📄  Feel free to check out my detailed portfolio for more insights into my work.
 
 
+### ⚙️ &nbsp;My Tech Stack
+
+#### Programming Languages 
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+
+#### Web Development
+![HTML5](https://skillicons.dev/icons?i=html) 
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Next JS](https://skillicons.dev/icons?i=nextjs)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Material UI](https://skillicons.dev/icons?i=materialui)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+
+#### Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![ExpressJs](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+#### Version Control & Others
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/YashChavanWeb">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YashChavanWeb&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YashChavanWeb&layout=compact&langs_count=8&theme=vue"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/YashChavanWeb">
+    <img src="https://github-stats-alpha.vercel.app/api/?username=YashChavanWeb&cc=4CAF50&tc=FFFFFF&ic=388E3C&animation=true" alt="Stats" />
+  </a>
+</p>
 
 
 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashChavanWeb&theme=github&animation=true" alt="Profile Summary Card" />
+</p>
+
+
+
+
+
+### 👋 &nbsp;Let's Connect
+<p align="center">
+  <a href="https://in.linkedin.com/in/yash-chavan-5b91a426b">
+    <img height="25" src="https://img.shields.io/badge/linkedin-%234CAF50.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yashchavan4628@gmail.com">
+    <img height="25" src="https://img.shields.io/badge/Gmail-%234CAF50.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@itsyashchavan">
+    <img height="25" src="https://img.shields.io/badge/YouTube-%234CAF50.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/YashChavanWeb">
+    <img height="25" src="https://img.shields.io/badge/github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=YashChavanWeb&color=4CAF50&style=flat-square&label=Profile+Views&animation=true)
