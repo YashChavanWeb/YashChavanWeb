@@ -1,16 +1,23 @@
 ![Web Development](https://github.com/YashChavanWeb/React_Complete_Course_Notes/assets/112185595/040080d0-5c51-4746-adaa-03f2e6adfae5)
 
-# Yash Chavan
+# 👋 Hello, I'm Yash Chavan 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN+Stack+Developer)
 
-I'm Yash Chavan from India, and I am currently a student of Second Year Computer Engineering at VCET College in Vasai. I enjoy Coding and solving real-life problems using my Programming Logic. I am currently also learning new technologies like React and Android Studio. I have some projects in Web Development and I like designing websites. 
+I'm Yash Chavan from India, and I am currently a second year computer engineering student at VCET College in Vasai. I enjoy Coding and solving real-life problems using my Programming Logic. I am currently also learning new technologies like React and Android Studio. I have some projects in Web Development and I like designing websites. 
 
 
 💡  Enthusiastic about Full-Stack Web Development with a focus on cutting-edge technologies.\
-🧠  Exploring the realms of Cloud Architecture and Automation to enhance software delivery.\
-✍️  Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - YASH CHAVAN.\
-✉️  Committed to contributing to the community through Open Source Initiatives and educational content.\
-📄  Feel free to check out my detailed portfolio for more insights into my work.
+✍️  Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - YASH CHAVAN.
+
+
+### 📝<a href="https://drive.google.com/file/d/1fconx_7lsJtcdi2MADopgHpimja2bGEb/view?usp=sharing" target="_blank"> &nbsp;My Resume <p>
+  </a>
+</p>
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=YashChavanWeb&color=000000&style=flat-square&label=Profile+Views&animation=true)
+
 
 
 ### ⚙️ &nbsp;My Tech Stack
@@ -45,31 +52,26 @@ I'm Yash Chavan from India, and I am currently a student of Second Year Computer
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/YashChavanWeb">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YashChavanWeb&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YashChavanWeb&layout=compact&langs_count=8&theme=vue"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YashChavanWeb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YashChavanWeb&layout=compact&langs_count=8&theme=graywhite"/>
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/YashChavanWeb">
-    <img src="https://github-stats-alpha.vercel.app/api/?username=YashChavanWeb&cc=4CAF50&tc=FFFFFF&ic=388E3C&animation=true" alt="Stats" />
+    <img src="https://github-stats-alpha.vercel.app/api/?username=YashChavanWeb&cc=000000&tc=FFFFFF&ic=000000&animation=true" alt="Stats" />
   </a>
 </p>
-
-
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashChavanWeb&theme=github&animation=true" alt="Profile Summary Card" />
 </p>
+
 
 
 
@@ -93,4 +95,4 @@ I'm Yash Chavan from India, and I am currently a student of Second Year Computer
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YashChavanWeb&color=4CAF50&style=flat-square&label=Profile+Views&animation=true)
+
