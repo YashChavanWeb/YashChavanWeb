@@ -3,11 +3,11 @@
 # 👋 Hello, I'm Yash Chavan 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN+Stack+Developer)
 
-I'm Yash Chavan from India, and I am currently a second year computer engineering student at VCET College in Vasai. I enjoy Coding and solving real-life problems using my Programming Logic. I am currently also learning new technologies like React and Android Studio. I have some projects in Web Development and I like designing websites. 
+I'm Yash Chavan from India, and I am currently a second-year computer engineering student at VCET College in Vasai. I enjoy Coding and solving real-life problems using my Programming Logic. I am currently also learning new technologies like React, NodeJS and Javascript. I have some projects in Web Development and I like solving problems through my skills in Website Building. 
 
 
 💡  Enthusiastic about Full-Stack Web Development with a focus on cutting-edge technologies.\
-✍️  Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - YASH CHAVAN.
+✍️  I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - YASH CHAVAN.
 
 
 ### 📝<a href="https://drive.google.com/file/d/1fconx_7lsJtcdi2MADopgHpimja2bGEb/view?usp=sharing" target="_blank"> &nbsp;My Resume <p>
@@ -24,6 +24,7 @@ I'm Yash Chavan from India, and I am currently a second year computer engineerin
 
 #### Programming Languages 
 ![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
 
 #### Web Development
