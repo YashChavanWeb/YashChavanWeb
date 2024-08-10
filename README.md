@@ -1,4 +1,4 @@
-![Web Development](https://github.com/YashChavanWeb/React_Complete_Course_Notes/assets/112185595/040080d0-5c51-4746-adaa-03f2e6adfae5)
+![Web Development](https://raw.githubusercontent.com/YashChavanWeb/YashChavanWeb/main/my%20banner.png)
 
 # 👋 Hello, I'm Yash Chavan 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN+Stack+Developer)
