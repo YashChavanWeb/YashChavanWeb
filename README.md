@@ -7,10 +7,10 @@ I'm Yash Chavan from India, and I am currently a second-year computer engineerin
 
 
 💡  Enthusiastic about Full-Stack Web Development with a focus on cutting-edge technologies.\
-✍️  I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - YASH CHAVAN.
+✍️  I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - [Yash Chavan](https://www.youtube.com/@yashchavanweb)
 
 
-### 📝[My Resume](https://drive.google.com/file/d/12YmoPDd78BK_4TXl6b4UARGjTJCswX4g/view?usp=sharing)
+### 📝[My Resume](https://drive.google.com/file/d/16hGOG7KOFgPXufVqqBZUv57nut_OcrLA/view)
 </p>
 
 
