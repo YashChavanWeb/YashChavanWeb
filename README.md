@@ -25,19 +25,16 @@ I'm Yash Chavan from India, and I am currently a second-year computer engineerin
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
-#### Web Development
-![HTML5](https://skillicons.dev/icons?i=html) 
-![CSS3](https://skillicons.dev/icons?i=css)
+#### Frontend and Backend
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
-![Next JS](https://skillicons.dev/icons?i=nextjs)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Material UI](https://skillicons.dev/icons?i=materialui)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-
-#### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJs](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -47,10 +44,17 @@ I'm Yash Chavan from India, and I am currently a second-year computer engineerin
 #### Version Control & Others
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+### AI/ML (Learning)]
+![Python](https://skillicons.dev/icons?i=python)
+![Flask](https://skillicons.dev/icons?i=flask)
+![ScikitLearn](https://skillicons.dev/icons?i=scikitlearn)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
