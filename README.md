@@ -10,7 +10,7 @@ I'm Yash Chavan from India, and I am currently a second-year computer engineerin
 ✍️  I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - [Yash Chavan](https://www.youtube.com/@yashchavanweb)
 
 
-### 📝[My Resume](https://drive.google.com/file/d/1knq4VI6K-_2b2xSi-61BgcNsKCBLSVAJ/view)
+### 📝[My Resume](https://drive.google.com/file/d/16zfK4rwilSUqqAhL290GwJfkCdzdM1_h/view?usp=sharing)
 </p>
 
 
@@ -32,29 +32,41 @@ I'm Yash Chavan from India, and I am currently a second-year computer engineerin
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Material UI](https://skillicons.dev/icons?i=materialui)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+
+
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJs](https://skillicons.dev/icons?i=express)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+![php](https://skillicons.dev/icons?i=php)
+
+
 
 #### Version Control & Others
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Docker](https://skillicons.dev/icons?i=kubernetes)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Bash](https://skillicons.dev/icons?i=bash)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Postman](https://skillicons.dev/icons?i=postman)
 
-### AI/ML (Learning)]
+### AI/ML
 ![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
 ![Flask](https://skillicons.dev/icons?i=flask)
-![ScikitLearn](https://skillicons.dev/icons?i=scikitlearn)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![ScikitLearn](https://skillicons.dev/icons?i=scikitlearn)
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
