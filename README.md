@@ -1,4 +1,4 @@
-![Web Development](https://github.com/YashChavanWeb/YashChavanWeb/blob/main/Purple%20and%20Yellow%20Colorful%20LinkedIn%20Article%20Cover%20Image.png)
+![Web Development](https://github.com/YashChavanWeb/YashChavanWeb/blob/main/Banner_2025.png)
 
 # 👋 Hello, I'm Yash Chavan 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN+Stack+Developer)
