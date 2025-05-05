@@ -1,7 +1,7 @@
 ![Web Development](https://github.com/YashChavanWeb/YashChavanWeb/blob/main/Banner_2025.png)
 
 # 👋 Hello, I'm Yash Chavan 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Full+Stack+Developer)
 
 I'm Yash Chavan from India, and I am currently a second-year computer engineering student at VCET College in Vasai. I enjoy Coding and solving real-life problems using my Programming Logic. I am currently also learning new technologies like React, NodeJS and Javascript. I have some projects in Web Development and I like solving problems through my skills in Website Building. 
 
