@@ -8,7 +8,7 @@ I'm Yash Chavan from India, and I am currently a third-year computer engineering
 ✍️  I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - [Yash Chavan](https://www.youtube.com/@yashchavanweb)
 
 
-### 📝[My Resume](https://drive.google.com/file/d/16zfK4rwilSUqqAhL290GwJfkCdzdM1_h/view?usp=sharing)
+### 📝[My Resume](https://drive.google.com/file/d/1tkfLCWG3mb4rO7gBsM4xvtVpkVvZ_4RR/view?usp=sharing)
 </p>
 
 
