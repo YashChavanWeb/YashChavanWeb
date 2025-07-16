@@ -1,14 +1,14 @@
-![Web Development](https://github.com/YashChavanWeb/YashChavanWeb/blob/main/Banner_2025.png)
+![Full Stack Development](https://github.com/YashChavanWeb/YashChavanWeb/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner%20(5).png)
 
 # 👋 Hello, I'm Yash Chavan 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Full+Stack+Developer)
 
-I'm Yash Chavan from India, and I am currently a third-year computer engineering student at VCET College in Vasai. I'm passionate about making contributions to open-source, creating technology to solve real-world problems. Some technologies I enjoy working with include React, Express and GenAI. I am currently also learning new trending technologies like Machine Learning, Deep Learning, and DevOps (Cloud Computing). I have various projects in Full Stack Development made to solve actual problems and would love to work on such problems ahead as well. 
+I’m Yash Chavan, a third-year Computer Engineering student at VCET, Vasai, with a** 9.45 CGPA** and a passion for building impactful **full-stack and AI-powered solutions**. I’ve developed and deployed real-world projects using **React, Node.js, MongoDB**, and GenAI technologies like **LangChain and FastAPI**. Currently exploring **ML, Deep Learning, and DevOps**, I aim to solve real-world problems through innovative, scalable tech.
 
 ✍️  I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - [Yash Chavan](https://www.youtube.com/@yashchavanweb)
 
 
-### 📝[My Resume](https://drive.google.com/file/d/1tkfLCWG3mb4rO7gBsM4xvtVpkVvZ_4RR/view?usp=sharing)
+### 📝[My Resume](https://yashchavanweb.github.io/Resume/Resume.pdf)
 </p>
 
 
