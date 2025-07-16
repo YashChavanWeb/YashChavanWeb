@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Yash Chavan 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Full+Stack+Developer)
 
-I’m Yash Chavan, a third-year Computer Engineering student at VCET, Vasai, with a** 9.45 CGPA** and a passion for building impactful **full-stack and AI-powered solutions**. I’ve developed and deployed real-world projects using **React, Node.js, MongoDB**, and GenAI technologies like **LangChain and FastAPI**. Currently exploring **ML, Deep Learning, and DevOps**, I aim to solve real-world problems through innovative, scalable tech.
+I’m Yash Chavan, a third-year Computer Engineering student at VCET, Vasai, with a *9.45 CGPA* and a passion for building impactful **full-stack and AI-powered solutions**. I’ve developed and deployed real-world projects using **React, Node.js, MongoDB**, and GenAI technologies like **LangChain and FastAPI**. Currently exploring **ML, Deep Learning, and DevOps**, I aim to solve real-world problems through innovative, scalable tech.
 
 ✍️  I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - [Yash Chavan](https://www.youtube.com/@yashchavanweb)
 
