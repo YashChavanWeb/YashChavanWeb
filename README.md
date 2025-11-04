@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Yash Chavan 
 ## Full Stack Developer
 
-* 🎓 **Final-year Computer Engineering Student @ VCET, Vasai** with a 9.75/10 CGPA and ranked 1st in the Computer Department.
+* 🎓 **Final-year Computer Engineering Student @ VCET, Vasai** with a 9.87/10 CGPA and ranked 1st in the Computer Department.
 * 💡 **Passionate about building Full-Stack and AI-powered solutions** that create real-world impact.
 * 💻 **Experienced in developing and deploying projects** with MERN Stack, and GenAI technologies like LangChain, RAG & MCP Servers.
 * ☁️ **Currently exploring DevOps practices** with platforms like AWS to design scalable infrastructures and implement CI/CD pipelines.
